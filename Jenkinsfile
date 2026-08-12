@@ -13,7 +13,7 @@
         }
     }
   post{
-     succcess{
+     success{
       echo 'Pipeline Executed Succesfully'
      }
    failure{
