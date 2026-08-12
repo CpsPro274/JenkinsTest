@@ -12,4 +12,12 @@
             }
         }
     }
+  post{
+     succcess{
+      echo 'Pipeline Executed Succesfully'
+     }
+   failure{
+     echo 'Pipeline failed, Check logs for details'
+   }
+  }
 }
